@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://your-render-backend.onrender.com"
+API_URL = "https://ai-research-paper-hybrid-search-assistant.onrender.com"
 
 
 # PAGE CONFIG
