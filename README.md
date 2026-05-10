@@ -386,8 +386,5 @@ If information is not found in the uploaded document, the assistant clearly stat
 
 [Live Demo](https://2swuk2ttqouyhqfqs8tatu.streamlit.app/)
 
--Academic assistance
-
--Context-aware summarization
 
 ---
