@@ -384,13 +384,7 @@ If information is not found in the uploaded document, the assistant clearly stat
 
 ---
 
-## **Author**
 
-Built as an AI-powered Hybrid RAG system for:
-
--Research paper understanding
-
--Intelligent document retrieval
 
 -Academic assistance
 
